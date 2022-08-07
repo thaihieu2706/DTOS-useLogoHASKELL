@@ -1,0 +1,3 @@
+if you want use logo-haskell for xmonad 
+-- add foder .xmonad for /home/username
+-- replace folder xmobar in .config fort folder xmobar in this
